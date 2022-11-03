@@ -11,7 +11,7 @@ function App() {
 
       <div>
         <h1 id='hell' className='headertext'>Hello World!</h1>
-        <p>gfffg<span>uuuu</span></p>
+        <p>from<span> React</span></p>
         </div>
     </div>
   );
